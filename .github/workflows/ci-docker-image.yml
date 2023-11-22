@@ -1,4 +1,3 @@
-# Controls when the action will run. 
 name: CI-build-and-push-image-for-dockerImagebuildinGithub
 
 on:
